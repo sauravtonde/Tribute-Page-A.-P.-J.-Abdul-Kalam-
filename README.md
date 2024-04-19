@@ -5,7 +5,7 @@
 This is a tribute page dedicated to Dr. A. P. J. Abdul Kalam, the renowned Indian scientist and former President of India. The page contains information about his life, achievements, and contributions.
 
 ## Demo
-Explore the live demo of the tribute page: [Tribute Page Demo](https://sauravtonde.github.io/Tribute-Page-A.-P.-J.-Abdul-Kalam/)
+Explore the live demo of the tribute page: [Tribute Page Demo](https://sauravtonde.github.io/Tribute-Page-A.-P.-J.-Abdul-Kalam-/)
 
 ## Technology Used
 - HTML
@@ -18,7 +18,7 @@ Explore the live demo of the tribute page: [Tribute Page Demo](https://sauravton
 
 ## Usage
 To explore the tribute page:
-1. Access the live demo link: [Tribute Page Demo](https://sauravtonde.github.io/Tribute-Page-A.-P.-J.-Abdul-Kalam/)
+1. Access the live demo link: [Tribute Page Demo](https://sauravtonde.github.io/Tribute-Page-A.-P.-J.-Abdul-Kalam-/)
 2. Read through the information provided about Dr. A. P. J. Abdul Kalam.
 3. Enjoy learning about his inspiring life journey and contributions to society.
 
